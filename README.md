@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Rene 👋
+
+I'm a Mathematics/Statistics Advocatr and Machine Learning Engineer passionate about making Maths and Statistics more intuitive for newbies in the Data Science field users and seasoned experts alike. I also enjoy working on products that connect people or free up time for the things that truly matter. I like mentoring folks of all ages and backgrounds transitioning to the technology industry.
+
+In terms of technology I mostly work with `R`, `Python`, `Docker` and a variety of cloud services (mostly Microsoft Azure). I blog occassionally at https://franckess.com.
+
+## Find me here on the internet
+- Twitter: [@berndverst](https://twitter.com/franckess)
+- LinkedIn: [Rene Essomba](https://www.linkedin.com/in/reneessomba/)
 
 <!--
 **franckess/franckess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
