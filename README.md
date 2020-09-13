@@ -5,7 +5,7 @@ I'm a Mathematics/Statistics Advocate and Machine Learning Practitioner passiona
 In terms of technology I mostly work with `R`, `Python`, `Docker` and a variety of cloud services (mostly Microsoft Azure). I blog occassionally at https://franckess.com.
 
 ## Find me here on the internet
-- Twitter: [@berndverst](https://twitter.com/franckess)
+- Twitter: [@franckess](https://twitter.com/franckess)
 - LinkedIn: [Rene Essomba](https://www.linkedin.com/in/reneessomba/)
 
 <!--
