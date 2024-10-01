@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Rene 👋</h1>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
 
+
 I'm a Mathematician/Statistician by training and Machine Learning Practitioner passionate about making Maths and Statistics more intuitive for newbies in the Data Science field users and seasoned experts alike. I also enjoy working on products that connect people or free up time for the things that truly matter. I like mentoring folks of all ages and backgrounds transitioning to the technology industry.
 
 ## Technology
